@@ -1,6 +1,6 @@
 # Pareto Optimal Model Selection in Linear Bandits
 
-This is the python code for our AISTATS 2022 paper **Pareto Optimal Model Selection in Linear Bandits**. Packages used include: numpy, enum, math, copy, multiprocessing, pickle, time and matplotlib. 
+This repository contains the python code for our AISTATS 2022 paper **Pareto Optimal Model Selection in Linear Bandits**. Packages used include: numpy, enum, math, copy, multiprocessing, pickle, time and matplotlib. 
 
 We only include our implementations of `LinUCB`, `LinUCB Oracle`, `Dynamic Balancing`, (part of) `LinUCB++ with Carrol`, and `LinUCB++`. Please contact authors of `Smooth Corral` regarding the implement of `Smooth Corral`.
 
